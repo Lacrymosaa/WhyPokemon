@@ -4,7 +4,7 @@ Desde criança fui encantada com Pokémon e isso acabou influenciando muito na m
 # Significados
 Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon, e esse resositório guardará todos os significados de nomes.
 
-* A
+## A
 - [Audino](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Audino.txt)
 * B
 * C
