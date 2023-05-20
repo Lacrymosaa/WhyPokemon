@@ -1,0 +1,2 @@
+O nome Farfetch vem da ideia que estou "juntando" várias funções e componentes do farm de um jogo de pokémon e disponibilizar para o programa, assim como a função Fetch faz para o DB. Assim consigo vizualizar bem cada preocupação e analisar e gerenciar melhor as ações do programa. 
+É também uma brincadeira com Farm Fetch, que seria a idéia do nome do programa.

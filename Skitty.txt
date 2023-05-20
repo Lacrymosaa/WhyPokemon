@@ -1,0 +1,2 @@
+Skitty é um programa calculadora que fiz para explorar o uso da bibliteca alternativa ao TKinter, o PyQt, e também para presentear aleatóriamente minha namorada.
+Seu nome é devido a eu ter customizado com coisas da Hello Kitty (que ela ama), por conta dele ter o "kitty" no nome e porque a descrição dele me remete um pouco a ela.

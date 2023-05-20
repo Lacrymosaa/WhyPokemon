@@ -1,0 +1,2 @@
+Audino é o programa de criação de playlist onde o usuário escolhe um gênero músical, um nível de popularidade médio e um tempo em minutos e ele gera uma playlist na sua conta do Spotify. Ele também possui uma opção de gerar playlist com base nos 5 gêneros músicais que você mais escuta.
+O seu nome é por conta das orelhas do pokémon Audino captarem sons a grandes distâncias, e consegui facilmente associar a um programa que coloca músicas numa escala de popularidade que você quiser, inclusive as que você precisaria ir "mais longe para achar".

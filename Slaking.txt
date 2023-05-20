@@ -1,0 +1,3 @@
+Slaking é um programa que te permite criar e gerenciar sua lista de afazeres.
+Seu nome é devido ao fato das pessoas em geral fazerem listas para tentar se tornarem mais produtivas e organizar coisas que elas devem fazer, mas na maioria das vezes acabarem relaxando e não completando suas tarefas. Isso acabou me lembrando a habilidade Truant de Slaking.
+"Every second turn, a Pokémon with Truant cannot use a move due to loafing around, such that the Pokémon can move on its first turn but not its second turn."

@@ -1,0 +1,6 @@
+Jirachi é um programa de tarot que darei de presente para minha amada no dia dos namorados. Ele te mostrará 3 cartas viradas para baixo por dia e você deve escolher 1 e ele fará uma previsão do seu dia com base na carta escolhida. 
+-Ele escolherá 3 cartas num array de 76 (o total de cartas do tarot).
+-O usuário será limitado a 1 carta por dia, após essa carta o programa não funcionará mais até o dia seguinte.
+
+O nome é por conta da lenda do próprio Jirachi:
+"A legend states that Jirachi will make true any wish that is written on notes attached to its head when it awakens."

@@ -1,0 +1,2 @@
+Peliper é um programa que envia um email com um anexo que muda de acordo com o dia da semana (inspirado pelos dias de Breaking Bad, que se tornaram populares no twitter).
+Seu nome é por conta do Peliper ser o Pokémon carteiro em Pokémon Mystery Dungeon.

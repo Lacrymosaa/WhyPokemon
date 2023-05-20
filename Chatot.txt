@@ -1,0 +1,2 @@
+Chatot é um programa que consegue achar músicas no spotify com base na letra inserida pelo usuário. 
+O seu nome é devido a capacidade do Pokémon Chatot conseguir imitar o grunhido de outros Pokémon para se passar por um deles, o que me fez pensar que ele conseguiria se recordar do nome de um Pokémon (música) se ouvisse seu grunhido (letra)

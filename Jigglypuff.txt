@@ -1,0 +1,2 @@
+Jigglypuff é um programa que escolhe uma música aleatória de um cantor e abre ela no seu navegador. A idéia veio inspirada numa piada que fiz relacionado a "música do dia", e ai fui atrás de executar a idéia.
+O nome foi por conta do pokémon sempre estar cantando e ser um programa que justamente abre uma música pra você.
