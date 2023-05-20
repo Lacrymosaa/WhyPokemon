@@ -5,7 +5,7 @@ Desde criança fui encantada com Pokémon e isso acabou influenciando muito na m
 Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon, e esse resositório guardará todos os significados de nomes.
 
 * A
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Audino.txt)" target="_blank">Audino</a>
+- [Audino](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Audino.txt)
 * B
 * C
 - <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Chatot.txt)" target="_blank">Chatot</a>
