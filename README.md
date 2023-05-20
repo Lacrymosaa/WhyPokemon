@@ -4,39 +4,15 @@ Desde criança fui encantada com Pokémon e isso acabou influenciando muito na m
 # Significados
 Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon, e esse resositório guardará todos os significados de nomes.
 
-## A
+# Programas
 - [Audino](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Audino.txt)
-* B
-* C
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Chatot.txt)" target="_blank">Chatot</a>
-* D
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Delibird.txt)" target="_blank">Delibird</a>
-* E
-* F
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Farfetch'd.txt)" target="_blank">Farfech'd</a>
-* G
-* H
-* I
-* J
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Jigglypuff.txt)" target="_blank">Jigglypuff</a>
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Jirachi.txt)" target="_blank">Jirachi</a>
-* K
-* L
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Luvdisc.txt)" target="_blank">Luvdisc</a>
-* M
-* N
-* O
-* P
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Peliper.txt)" target="_blank">Peliper</a>
-* Q
-* R
-* S
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Slaking.txt)" target="_blank">Slaking</a>
-- <a href="[https://www.google.com/](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Skitty.txt)" target="_blank">Skitty</a>
-* T
-* U
-* V
-* W
-* X
-* Y
-* Z
+- [Chatot](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Chatot.txt)
+- [Delibird](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Delibird.txt)
+- [Farfetch'd](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Farfetch'd.txt)
+- [Jigglypuff](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Jigglypuff.txt)
+- [Jirachi](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Jirachi.txt)
+- [Luvdisc](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Luvdisc.txt)
+- [Peliper](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Peliper.txt)
+- [Slaking](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Slaking.txt)
+- [Skitty](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Skitty.txt)
+
