@@ -13,6 +13,8 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Jirachi](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Jirachi.txt)
 - [Luvdisc](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Luvdisc.txt)
 - [Peliper](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Peliper.txt)
-- [Slaking](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Slaking.txt)
+- [Scizor](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Scizor.txt)
 - [Skitty](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Skitty.txt)
+- [Slaking](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Slaking.txt)
+
 
