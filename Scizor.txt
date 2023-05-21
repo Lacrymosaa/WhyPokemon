@@ -1,0 +1,3 @@
+Scizor é uma automação feita para cortar cartas em uma imagem com decks de cartas separados por espaços em branco. Com poucas modificações ele pode ser usado de forma diferente.
+
+O nome é sujestivo.
