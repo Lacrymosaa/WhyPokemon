@@ -1,0 +1,5 @@
+Delcatty é um programa que mostra imagens de gatinhos com uma música de fundo para aliviar a ansiedade!
+
+O nome do programa é devido a ser algo de uso completamente aleatório, que acaba sendo coerente com a descrição de Delcatty, que coerentemente é um gato.
+
+"Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random."
