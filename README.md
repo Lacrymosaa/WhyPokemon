@@ -7,6 +7,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 # Programas
 - [Audino](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Audino.txt)
 - [Chatot](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Chatot.txt)
+- [Delcatty](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Delcatty.txt)
 - [Delibird](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Delibird.txt)
 - [Farfetch'd](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Farfetch'd.txt)
 - [Jigglypuff](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Jigglypuff.txt)
