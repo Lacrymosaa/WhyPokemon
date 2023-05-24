@@ -1,0 +1,5 @@
+Alakazam é um Chatbot com API do OpenAI com interface gráfica simples onde os usuários podem fazer perguntas.
+
+Seu nome é devido ao fato dele lembrar de perguntas anteriores, além de ter um amplo conhecimento, assim como descrito na Pokedex de Alakazam.
+
+"It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death."
