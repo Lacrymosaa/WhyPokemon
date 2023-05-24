@@ -5,6 +5,7 @@ Desde criança fui encantada com Pokémon e isso acabou influenciando muito na m
 Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon, e esse resositório guardará todos os significados de nomes.
 
 # Programas
+- [Alakazam](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Alakazam.txt)
 - [Audino](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Audino.txt)
 - [Chatot](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Chatot.txt)
 - [Delcatty](https://github.com/DiabolicWitch/WhyPokemon/blob/main/Delcatty.txt)
