@@ -1,4 +1,4 @@
-Luvdisc é um toca música que fiz pra minha namorada, que possui um disco que roda na tela e toca as músicas do album Aurora de Daisy Jones and The Six (que ela ama muito).
-O seu nome é apenas devido a "Luv" e "Disc" que me remetia a eu estar fazendo pra ela e conter um disco rodando no programa. Fora que na Pokedex ele possui a frase "In some places, you would give a Luvdisc to someone you love."
+Luvdisc é um toca música que fiz para pessoas presentearem suas namoradas, que possui um disco e fundo que podem ser trocadas pelos arquivos.
+O seu nome é apenas devido a "Luv" e "Disc" que me remetia a eu estar fazendo pra alguém amado e conter um disco rodando no programa. Fora que na Pokedex ele possui a frase "In some places, you would give a Luvdisc to someone you love."
 
-Se você está lendo isso Bianca, saiba que eu te amo!
+Fiz para alguém que já me foi muito especial!
