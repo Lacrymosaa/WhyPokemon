@@ -1,3 +1,3 @@
-A idéia original do programa é um programa que pega os links de qualquer site e organiza-os numa lista de presentes. Eu fiz inspirado na minha namorada que sempre gosta de presentar as outras pessoas e sempre se perde no que vai dar para elas.
+A idéia original do programa é um programa que pega os links de qualquer site e organiza-os numa lista de presentes. Eu fiz inspirado em uma amiga que sempre gosta de presentar as outras pessoas e sempre se perde no que vai dar para elas.
 O programa em si foi feito para estudo de WebScrapping que meu parceiro de faculdade, Vinicius (Niussu), me inspirou a ver algo sobre.
 Delibird se tornou o nome mais óbvio para um programa que tinha relação a presentes.
