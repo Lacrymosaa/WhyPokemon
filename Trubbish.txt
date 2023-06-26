@@ -1,0 +1,3 @@
+Trubbish é uma automação que entra na sua conta do twitter e exclui seus tweets um a um.
+
+Seu nome é sujestivo já que o Pokémon é (literalmente) um lixo e é dito que ele fica em lugares com lixo por perto. Se você for atrás do programa é porque você precisa se livrar desse lixo (no caso, os tweets).
