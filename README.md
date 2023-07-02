@@ -19,5 +19,6 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Skitty](https://github.com/MarianVulpes/WhyPokemon/blob/main/Skitty.txt)
 - [Slaking](https://github.com/MarianVulpes/WhyPokemon/blob/main/Slaking.txt)
 - [Trubbish](https://github.com/MarianVulpes/WhyPokemon/blob/main/Trubbish.txt)
+- [Meloetta](https://github.com/MarianVulpes/WhyPokemon/blob/main/Meloetta.txt)
 
 
