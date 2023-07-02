@@ -1,5 +1,5 @@
 # WhyPokemon
-Desde criança fui encantada com Pokémon e isso acabou influenciando muito na minha trajetória de estar me tornando uma programadora. Quando comecei a fazer projetos independentes da faculdade comecei a nomear aleatóriamente meus programas com nomes de Pokémon, até perceber que esse simples desenho e jogo tinha sido tão crucial na minha vida para tudo que ocorre até hoje. Por isso decidi continuar nomeando meus programas com nomes de Pokémon.
+Desde criança fui encantada com Pokémon e isso acabou influenciando muito na minha trajetória de estar me tornando uma programadora. Quando comecei a fazer projetos independentes da faculdade comecei a nomear aleatóriamente meus programas com nomes de Pokémon, até perceber que essa simples franquia havia sido tão crucial na minha vida para tudo que ocorre até hoje. Por isso decidi continuar nomeando meus programas com nomes de Pokémon.
 
 # Significados
 Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon, e esse resositório guardará todos os significados de nomes.
