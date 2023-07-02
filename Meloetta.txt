@@ -1,0 +1,5 @@
+Meloetta é um programa em python que baixa playlists do Spotify para você através de uma lib.
+
+Seu nome é devido a natureza completamente músical de Meloetta. Ela foi desenvolvida para eu poder ter minhas músicas nos momentos felizes ou tristes, sem me preocupar caso eu não tenha internet para escuta-las.
+
+"The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad."
