@@ -1,0 +1,5 @@
+Sableye é uma automação para baixar todas as fotos de um artista do last.fm.
+
+Seu nome é devido a descrição do Pokemon que acabou me remetendo ao ato de extrair as fotos.
+
+"... Ele usa suas garras afiadas para desenterrar pedras preciosas para se alimentar." 
