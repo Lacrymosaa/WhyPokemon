@@ -15,6 +15,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Jirachi](https://github.com/MarianVulpes/WhyPokemon/blob/main/Jirachi.txt)
 - [Luvdisc](https://github.com/MarianVulpes/WhyPokemon/blob/main/Luvdisc.txt)
 - [Peliper](https://github.com/MarianVulpes/WhyPokemon/blob/main/Peliper.txt)
+- [Sableye](https://github.com/MarianVulpes/WhyPokemon/blob/main/Sableye.txt)
 - [Scizor](https://github.com/MarianVulpes/WhyPokemon/blob/main/Scizor.txt)
 - [Skitty](https://github.com/MarianVulpes/WhyPokemon/blob/main/Skitty.txt)
 - [Slaking](https://github.com/MarianVulpes/WhyPokemon/blob/main/Slaking.txt)
