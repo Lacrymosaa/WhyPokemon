@@ -1,0 +1,3 @@
+Vibrava é um exemplo de uso do Axe Selenium para verificar acessibilidade em páginas na web.
+
+Seu nome é devido aos olhos do Pokémon serem adaptados ao uso de movimentos envolvendo areia, remetendo a adaptabilidade as circunstancias apresentadas.
