@@ -8,6 +8,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Alakazam](https://github.com/MarianVulpes/WhyPokemon/blob/main/Alakazam.txt)
 - [Audino](https://github.com/MarianVulpes/WhyPokemon/blob/main/Audino.txt)
 - [Chatot](https://github.com/MarianVulpes/WhyPokemon/blob/main/Chatot.txt)
+- [Chimecho](https://github.com/MarianVulpes/WhyPokemon/blob/main/Chimecho.txt)
 - [Delcatty](https://github.com/MarianVulpes/WhyPokemon/blob/main/Delcatty.txt)
 - [Delibird](https://github.com/MarianVulpes/WhyPokemon/blob/main/Delibird.txt)
 - [Farfetch'd](https://github.com/MarianVulpes/WhyPokemon/blob/main/Farfetch'd.txt)
