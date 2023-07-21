@@ -1,0 +1,3 @@
+Chimecho é um aplicativo para enviar notificações para lembrar seu usuário de colocar música para tocar. Precisei de algo semelhante por algum tempo, então decidi fazer eu mesma.
+
+O nome do programa é devido ao Pokémon ser um sino e por ele notificar o horário de almoço em Pokémon Mystery Dungeon.
