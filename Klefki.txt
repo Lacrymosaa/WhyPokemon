@@ -1,0 +1,3 @@
+Klefki é um criptografador de senhas utilizando hash (bcrypt lib).
+
+Klefki foi escolhido pelo pokémon ser um chaveiro.. entendeu? palavra chave, chaveiro..
