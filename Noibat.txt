@@ -1,0 +1,3 @@
+Noibat é um programa que lista todos os albuns e músicas de um artista para você dar notas e saber os seus top albuns.
+
+O seu nome é devido as orelhas do Pokémon serem extremamente eficientes, dando a idéia de que o Pokémon pode apreciar melhor a melodia.
