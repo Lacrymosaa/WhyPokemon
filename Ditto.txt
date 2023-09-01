@@ -1,0 +1,3 @@
+Ditto é um programa gerenciador de área de transferência que salva os últimos Control+C do usuário e permite que ele os copie novamente.
+
+Seu nome é devido ao pokémon poder se transformar em qualquer coisa que ver, tendo coerência com a útilidade do programa.
