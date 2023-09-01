@@ -17,7 +17,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Jirachi](https://github.com/MarianVulpes/WhyPokemon/blob/main/Jirachi.txt)
 - [Klefki](https://github.com/MarianVulpes/WhyPokemon/blob/main/Klefki.txt)
 - [Luvdisc](https://github.com/MarianVulpes/WhyPokemon/blob/main/Luvdisc.txt)
-- [Noivern](https://github.com/MarianVulpes/WhyPokemon/blob/main/Noivern.txt)
+- [Noibat](https://github.com/MarianVulpes/WhyPokemon/blob/main/Noibat.txt)
 - [Peliper](https://github.com/MarianVulpes/WhyPokemon/blob/main/Peliper.txt)
 - [Sableye](https://github.com/MarianVulpes/WhyPokemon/blob/main/Sableye.txt)
 - [Scizor](https://github.com/MarianVulpes/WhyPokemon/blob/main/Scizor.txt)
