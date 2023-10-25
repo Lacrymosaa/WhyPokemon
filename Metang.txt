@@ -1,0 +1,3 @@
+Conversor de arquivo .json em tabelas Excel .XLSL
+
+Seu nome é devido ao fato do Metang ter 2 cérebros e uma capacidade alta de cálculo.
