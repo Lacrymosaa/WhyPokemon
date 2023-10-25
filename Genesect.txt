@@ -1,0 +1,6 @@
+Genesect é o programa que simula seleção natural que utilizarei/utilizei em meu TCC da Fatec: Resolução de Problemas com Algoritmo Genético.
+Ele foi criado para demonstrar os princípios básicos de como é feito e como funcionam os algoritmos genéticos.
+
+Seu nome significa 
+Gerenciador Evolutivo de Nutrição e Seleção para Evolução de Características Temporais (G.E.N.E.S.E.C.T.)
+Mas foi escolhido devido a presença de "gene" no nome do Pokémon, além das caracteristicas e história do próprio pokémon.
