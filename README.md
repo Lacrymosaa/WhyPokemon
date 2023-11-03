@@ -1,6 +1,8 @@
 # WhyPokemon
 Desde criança fui encantada com Pokémon e isso acabou influenciando muito na minha trajetória de estar me tornando uma programadora. Quando comecei a fazer projetos independentes da faculdade comecei a nomear aleatóriamente meus programas com nomes de Pokémon, até perceber que essa simples franquia havia sido tão crucial na minha vida para tudo que ocorre até hoje. Por isso decidi continuar nomeando meus programas com nomes de Pokémon.
 
+
+
 # Significados
 Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon, e esse resositório guardará todos os significados de nomes.
 
@@ -9,6 +11,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Audino](https://github.com/MarianVulpes/WhyPokemon/blob/main/Audino.txt)
 - [Chatot](https://github.com/MarianVulpes/WhyPokemon/blob/main/Chatot.txt)
 - [Chimecho](https://github.com/MarianVulpes/WhyPokemon/blob/main/Chimecho.txt)
+- [Chingling](https://github.com/MarianVulpes/WhyPokemon/blob/main/Chingling.txt)
 - [Delcatty](https://github.com/MarianVulpes/WhyPokemon/blob/main/Delcatty.txt)
 - [Delibird](https://github.com/MarianVulpes/WhyPokemon/blob/main/Delibird.txt)
 - [Ditto](https://github.com/MarianVulpes/WhyPokemon/blob/main/Ditto.txt)
@@ -30,5 +33,20 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Unown](https://github.com/MarianVulpes/WhyPokemon/blob/main/Unown.txt)
 - [Vibrava](https://github.com/MarianVulpes/WhyPokemon/blob/main/Vibrava.txt)
 - [Meloetta](https://github.com/MarianVulpes/WhyPokemon/blob/main/Meloetta.txt)
+
+# Aviso Importante: Conscientização dos Termos de Uso da Pokémon Company
+
+Eu, Marian Vulpes, quero afirmar que estou plenamente ciente e compreendo os Termos de Uso estabelecidos pela Pokémon Company International, Inc. referentes aos serviços fornecidos por eles. Li atentamente os termos disponíveis em https://www.pokemon.com/br/termos-de-uso/.
+
+Após uma revisão minuciosa, não identifiquei nenhum possível problema relacionado à utilização dos nomes de Pokémon especificamente mencionados em minhas aplicações/projetos. Os termos estabelecidos pelos criadores dos Pokémon, a Pokémon Company International, deixam claro que os direitos intelectuais associados a esses elementos pertencem à Nintendo e a outras partes envolvidas.
+
+Eu encorajo e valorizo o respeito integralmente aos direitos de propriedade intelectual dessas empresas renomadas.
+
+Reitero meu compromisso em agir em conformidade com todas as leis e regulamentações aplicáveis, garantindo uma utilização ética e legal dos recursos relacionados ao universo Pokémon.
+
+Atenciosamente,
+  Marian Vulpes.
+
+Contato: marianvulpes1987@gmail.com
 
 
