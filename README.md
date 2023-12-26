@@ -15,6 +15,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Delcatty](https://github.com/MarianVulpes/WhyPokemon/blob/main/Delcatty.txt)
 - [Delibird](https://github.com/MarianVulpes/WhyPokemon/blob/main/Delibird.txt)
 - [Ditto](https://github.com/MarianVulpes/WhyPokemon/blob/main/Ditto.txt)
+- [Electrode](https://github.com/MarianVulpes/WhyPokemon/blob/main/Electrode.txt)
 - [Farfetch'd](https://github.com/MarianVulpes/WhyPokemon/blob/main/Farfetch'd.txt)
 - [Genesect](https://github.com/MarianVulpes/WhyPokemon/blob/main/Genesect.txt)
 - [Jigglypuff](https://github.com/MarianVulpes/WhyPokemon/blob/main/Jigglypuff.txt)
