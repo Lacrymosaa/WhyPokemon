@@ -1,0 +1,3 @@
+Electrode é uma fork bomb (explicação no próprio repositório).
+
+Seu nome é devido a caracteristica do Pokémon de se explodir, dando relação com o nome bomb.
