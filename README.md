@@ -24,7 +24,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Luvdisc](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Luvdisc.txt)
 - [Metang](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Metang.txt)
 - [Noibat](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Noibat.txt)
-- [Peliper](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Peliper.txt)
+- [Pelipper](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Pelipper.txt)
 - [Porygon](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Porygon.txt)
 - [Sableye](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Sableye.txt)
 - [Scizor](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Scizor.txt)
