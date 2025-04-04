@@ -30,6 +30,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Scizor](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Scizor.txt)
 - [Skitty](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Skitty.txt)
 - [Slaking](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Slaking.txt)
+- [Slowpoke](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Slowpoke.txt)
 - [Trubbish](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Trubbish.txt)
 - [Unown](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Unown.txt)
 - [Vibrava](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Vibrava.txt)
