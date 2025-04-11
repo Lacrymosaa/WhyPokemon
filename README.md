@@ -26,6 +26,7 @@ Sempre haverá um motivo para cada nome de programa ser um determinado Pokémon,
 - [Noibat](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Noibat.txt)
 - [Pelipper](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Pelipper.txt)
 - [Porygon](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Porygon.txt)
+- [Porygon-Z](https://github.com/Lacrymosaa/WhyPokemon/blob/main/PorygonZ.txt)
 - [Sableye](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Sableye.txt)
 - [Scizor](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Scizor.txt)
 - [Skitty](https://github.com/Lacrymosaa/WhyPokemon/blob/main/Skitty.txt)
