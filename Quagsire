@@ -1,0 +1,7 @@
+Quagsire is a desktop application designed to assist players of the Pokémon minigame Voltorb Flip by solving the game board using a backtracking algorithm combined with entropy-based probability analysis. It helps players make informed decisions by calculating the likelihood of each cell being safe or a bomb, thus improving their chances to maximize points and minimize risks.
+
+This project was originally developed as the final assignment for my Differential Equations subject during my Masters program. The final version implemented a combination of a logistic Ordinary Differential Equation (ODE) and the Euler method to model the agent’s reliability progression based on the maximum entropy values on the board after each move that I developed myself.
+
+The idea was to dynamically adjust the agent’s behavior as the game progressed, using the mathematical model to reflect increasing environmental complexity. However, for the final version presented here — aimed at a more practical and straightforward implementation — this feature was removed, as it was no longer considered a core element of the project.
+
+The name was given after the fact that Quagsire was heavily used by Poké Nexus players who mined as a way to prevent Regice, Regirock and Registeel from exploding thanks to the Damp ability.
